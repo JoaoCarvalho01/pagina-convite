@@ -3,8 +3,8 @@
 
 body{
   display: flex;
-  height: 96%;
-  width: 98%;
+  height: 99%;
+  width: 100%;
   background-color: #E7E2DB;
   background-image: url(imagens/Suguro-geto2.jpg);
   background-repeat: no-repeat;
@@ -13,6 +13,7 @@ body{
   background-attachment: fixed;
   flex-direction: column;
   justify-content: space-evenly;
+  
 }
 
 
